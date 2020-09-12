@@ -1,0 +1,38 @@
+{
+  "user": {
+    "id": "jBWMVGjm50l6LGwepDoty",
+    "username": "frontendmaster"
+  },
+  "pet": [
+    {
+      "id": "1",
+      "createdAt": "today",
+      "name": "Pepper",
+      "type": "DOG"
+    },
+    {
+      "id": "2",
+      "createdAt": "tomorrow",
+      "name": "Ophelia",
+      "type": "CAT"
+    },
+    {
+      "id": "dwEyx19r1JfLdqCSxP02R",
+      "createdAt": 1598668647668,
+      "name": "Adidas",
+      "type": "DOG"
+    },
+    {
+      "id": "E-3dvLEnPImvzPVV87Ct3",
+      "createdAt": 1598668776528,
+      "name": "Puma",
+      "type": "DOG"
+    },
+    {
+      "id": "kaNQSqV2tQg-_YgdYg6sI",
+      "createdAt": 1598668817106,
+      "name": "DaddyDog",
+      "type": "Dog"
+    }
+  ]
+}
